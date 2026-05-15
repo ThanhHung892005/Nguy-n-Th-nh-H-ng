@@ -3,7 +3,7 @@
 # Hi, I'm Nguyễn Thành Hưng 👋
 
 <a href="https://github.com/YOUR_USERNAME">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=4A90E2&center=true&vCenter=true&width=500&lines=AI+%2F+ML+Engineer;Data+Scientist;Always+learning+new+things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=4A90E2&center=true&vCenter=true&width=500&lines=AI+%2F+ML+Engineer;Always+learning+new+things" alt="Typing SVG" />
 </a>
 
 <br/>
